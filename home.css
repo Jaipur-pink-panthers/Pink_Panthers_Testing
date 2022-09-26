@@ -1,7 +1,4 @@
-body {
-    background-color: pink;
-    
-}
+
 .a1 {
      text-align: center;
      font-family: Georgia, 'Times New Roman', Times, serif;
@@ -52,5 +49,9 @@ body {
   .topnav a.split:hover {
     background-color: whitesmoke;
     color: black;
+  }
+
+  img {
+    opacity: 0.6;
   }
   
