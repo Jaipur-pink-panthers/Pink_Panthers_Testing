@@ -1,12 +1,14 @@
-
+body{
+  background-color: white ;
+}
 .a1 {
      text-align: center;
-     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-family:'Arial, Helvetica, sans-serif';
      font-size: 20;
 }
 .a2 {
     text-align: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .topnav {
     background-color: black;
@@ -58,10 +60,9 @@
   
   video {
     position:static;
-    height:50%;
-    width:100%;
+    height: min-content;
+    width: 100%;
     align-items: center;
-
   }
 
   h2.b {
@@ -75,33 +76,44 @@
   .column {
    
     float: left;
-    width: 33.33%;
-    padding: 5px;
+    width: 30.33%;
+    background-color: whitesmoke;
+    border: 15px palegreen;
+    padding: 50px;
+    margin: 20px;
     
   }
   
-  /* Clearfix (clear floats) */
+ 
   .row::after {
     content: "";
     clear: both;
     display: table;
   }
 
+  
   .button {
-    border-color:aqua;
-    border: 5;
+    background-color: #4CAF50; 
+    border: none;
     color: white;
-    padding: 20px;
+    padding: 16px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
+    transition-duration: 0.4s;
     cursor: pointer;
-    
+    border-radius: 100px;
   }
-  .button1 {
-    border-radius: 100%;
-    align-self: center;
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
   }
   
+  .button2:hover {
+    background-color: darkblue;
+    color: white;
+  }
+
