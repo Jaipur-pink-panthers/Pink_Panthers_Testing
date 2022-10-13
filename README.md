@@ -7,10 +7,10 @@ We will also show the top hotles available in the region.
 
 ## How to visit the website ?
 Use the below link to visit the website
-'''bash
+
 https://deepak-b-g.github.io/Pink_Panthers.github.io/
 
-'''
+
 ## Development of the website.
 
 The website is primarily built on HTML, CSS and Java Script languages.
