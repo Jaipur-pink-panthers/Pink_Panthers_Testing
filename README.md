@@ -16,7 +16,9 @@ https://deepak-b-g.github.io/Pink_Panthers.github.io/
 The website is primarily built on HTML, CSS and Java Script languages.
 
 HTML - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
+
 CSS - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.
+
 Java Script - JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. 
 
 ## Testing of the website
