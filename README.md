@@ -51,3 +51,4 @@ GitHub Pages - GitHub Pages is a static site hosting service that takes HTML, CS
  
  Links to our social media sites yet to be provided.
 
+ The Navigation  bar is unresponsive during the video runtime.
