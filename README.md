@@ -12,13 +12,7 @@ Technologies used:
 
 Complete setup/installation instructions: A hardware with web browser and a stable internet connection.
 
-Known bugs: 
--Our Services, Privacy Policy, Affiliate Program under Company section is still under development.
--FAQ and Contact Us under Get Help is still under development.
--Links to our social media sites yet to be provided.
 
-Deployment of the website: The deployment is done using github pages
-GitHub Pages - GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
 
 ## How to visit the website ?
