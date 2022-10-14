@@ -46,6 +46,8 @@ GitHub Pages - GitHub Pages is a static site hosting service that takes HTML, CS
 ## Know Bugs
 
  Our Services, Privacy Policy, Affiliate Program under Company section is still under development.
+ 
  FAQ and Contact Us under Get Help is still under development.
+ 
  Links to our social media sites yet to be provided.
 
