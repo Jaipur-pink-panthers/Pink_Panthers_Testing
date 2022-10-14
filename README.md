@@ -2,8 +2,24 @@
 This is a website which will show and guide you about jaipur.
 
 ## Purpose of this website
-Our aim is to make people want to explore the pink city with proper information and guidence.
-We will also show the top hotles available in the region.
+A static website under development that provides insights into the cultural heritage and tourism facilities available in the pink city of Jaipur, Rajasthan. Explore tab enlists all the tourist attraction places in Jaipur for one to visit and is assisted by providing its location on the map. Hotels tab providing a list of well reputed hotels along with their pricing at the time of development. Cuisines tab providing a list of popular foods of Jaipur.
+
+Technologies used: 
+-HTMl
+-CSS
+-Google analytics
+-Software testing tools (TBD)
+
+Complete setup/installation instructions: A hardware with web browser and a stable internet connection.
+
+Known bugs: 
+-Our Services, Privacy Policy, Affiliate Program under Company section is still under development.
+-FAQ and Contact Us under Get Help is still under development.
+-Links to our social media sites yet to be provided.
+
+Deployment of the website: The deployment is done using github pages
+GitHub Pages - GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+
 
 ## How to visit the website ?
 Use the below link to visit the website
@@ -21,6 +37,8 @@ CSS - Cascading Style Sheets is a style sheet language used for describing the p
 
 Java Script - JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. 
 
+Google Analytics - Google Analytics is a web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand
+
 ## Testing of the website
 
 
@@ -30,4 +48,10 @@ Java Script - JavaScript is a text-based programming language used both on the c
 The deployment is done using github pages 
 
 GitHub Pages - GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+
+## Know Bugs
+
+ Our Services, Privacy Policy, Affiliate Program under Company section is still under development.
+ FAQ and Contact Us under Get Help is still under development.
+ Links to our social media sites yet to be provided.
 
